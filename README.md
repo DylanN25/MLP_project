@@ -5,6 +5,8 @@ This project aims to compare three machine learning models using TensorFlow, Ker
 
 ## Contribution
 This project is based on the original repository by [fiquinho](https://github.com/fiquinho/neural-network-projects/tree/master/tensorflow_base_models). We have extended the analysis and comparison of models, as well as implemented new visualization and evaluation techniques.
+You can see the contribution at: Models/mushrooms_tensorflow&keras.ipynb.
+In summary, Fiquinho's work compares Keras and TensorFlow, to which I contributed by integrating both frameworks into a single model. This hybrid approach leverages their individual strengths, ultimately enhancing accuracy and reducing losses.
 
 ## Dataset
 The dataset used in this project comes from Kaggle and can be found [here](https://www.kaggle.com/datasets/uciml/mushroom-classification). This dataset contains information about different types of mushrooms and their characteristics. It includes descriptions of hypothetical samples corresponding to 23 species of gilled mushrooms in the Agaricus and Lepiota family. Each species is identified as definitely edible, definitely poisonous, or of unknown edibility and not recommended.
